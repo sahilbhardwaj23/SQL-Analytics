@@ -45,14 +45,4 @@ Conducted a detailed SQL analysis of investment trends and performance evaluatio
 **Key Features:**
 - **Case Study:** SQL analysis of investment trends and performance evaluation.
 
-## Tech Stack
 
-- **SQL Tools:** MySQL
-- **Data Analysis Tools:** Excel
-
-## Getting Started
-
-To get started with any of these projects, you can clone this repository and explore the provided SQL scripts and data files.
-
-```bash
-git clone https://github.com/yourusername/your-repository.git
